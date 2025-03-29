@@ -1,4 +1,4 @@
-package GerenciadorVendas_atv02;
+package Atividade_02.GerenciadorVendas_atv02;
 
 import java.util.Scanner;
 

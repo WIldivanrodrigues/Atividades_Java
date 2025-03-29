@@ -1,5 +1,5 @@
 
-package calc_medias.gerenciador_de_estoque;
+package Atividade_01.gerenciador_de_estoque;
 
 public class Produto {
     private String nome = "";

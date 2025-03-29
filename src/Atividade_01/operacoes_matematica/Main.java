@@ -1,4 +1,4 @@
-package calc_medias.operacoes_matematica;
+package Atividade_01.operacoes_matematica;
 
 import java.util.Scanner;
 

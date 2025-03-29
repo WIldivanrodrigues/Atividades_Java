@@ -1,4 +1,4 @@
-package calc_medias;
+package Atividade_01.calc_medias;
 
 public class Aluno {
     private String nome;

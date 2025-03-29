@@ -1,4 +1,4 @@
-package calc_medias.sistemaBancario;
+package Atividade_01.sistemaBancario;
 
 public class ContaBancaria {
 
