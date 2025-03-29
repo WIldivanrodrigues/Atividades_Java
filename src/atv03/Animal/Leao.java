@@ -21,7 +21,7 @@ public class Leao extends Animal {
         }
     }
 
-    // Getters e Setters
+   
     public void setJuba(boolean juba) {
         this.juba = juba;
     }
