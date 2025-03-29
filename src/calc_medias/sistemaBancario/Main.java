@@ -1,4 +1,4 @@
-package sistemaBancario;
+package calc_medias.sistemaBancario;
 
 import java.util.Scanner;
 

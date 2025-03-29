@@ -1,4 +1,4 @@
-package gerenciador_de_estoque;
+package calc_medias.gerenciador_de_estoque;
 
 import java.util.Scanner;
 

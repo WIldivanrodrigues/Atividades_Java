@@ -1,4 +1,4 @@
-package operacoes_matematica;
+package calc_medias.operacoes_matematica;
 
 
 public class Matematica {
