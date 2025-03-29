@@ -12,7 +12,6 @@ public class Animal {
         this.cor = cor;
     }
 
-    // Métodos Getters e Setters
     public float getTamanho() {
         return tamanho;
     }
