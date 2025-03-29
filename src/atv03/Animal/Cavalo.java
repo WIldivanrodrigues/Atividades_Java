@@ -17,7 +17,7 @@ public class Cavalo extends Animal {
         System.out.println("Está fugindo!");
     }
 
-    // Getters e Setters
+  
     public void setRaca(String raca) {
         this.raca = raca;
     }
